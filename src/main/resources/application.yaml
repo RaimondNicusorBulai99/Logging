@@ -1,0 +1,11 @@
+logging:
+  level:
+    co:
+      develhope:
+        loggingExercise:
+          services: DEBUG
+    root: INFO
+spring:
+  output:
+    ansi:
+      enabled: always
